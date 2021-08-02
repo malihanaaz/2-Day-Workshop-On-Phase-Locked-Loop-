@@ -3,13 +3,14 @@
 The SKY130nm technology is used for the implementation of Phase locked loop design using Open source tools Ngspice and Magic.
 
 # Table of contents
-1. # PLL-introduction
-2. Terms involved
-3. Prelayout Simulations
-4. Layout Generation
-5. Post Layout Simulations
+1. #PLLintroduction
+#pll-introduction
+3. Terms involved
+4. Prelayout Simulations
+5. Layout Generation
+6. Post Layout Simulations
 
-## PLL-introduction
+## [PLL introduction] (#pll-introduction)
 
 ffmf
 ffkf
