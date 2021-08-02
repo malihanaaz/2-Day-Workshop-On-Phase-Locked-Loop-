@@ -10,6 +10,12 @@ The SKY130nm technology is used for the implementation of Phase locked loop desi
 5. Post Layout Simulations
 
 ## PLL introduction
+
+ffmf
+ffkf
+,f,,f
+,,,f
+,f,,f
 ## Terms involved
 ## Prelayout Simulations
 ## Layout Generation
